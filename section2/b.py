@@ -13,6 +13,7 @@ class TheTuple(unittest.TestCase):
         tuple0 = ()
         print(type(tuple0))
         tuple1 = ('google', 'amd', 'vdos', 1, 2, 3)
+        print(tuple1)
         # 不加括号
         tuple2 = 'niggers', 'pigs', 'dogs'
         print(type(tuple2))
